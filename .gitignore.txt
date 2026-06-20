@@ -1,0 +1,4 @@
+jewelry_lora_model/
+logs/
+__pycache__/
+.ipynb_checkpoints/
