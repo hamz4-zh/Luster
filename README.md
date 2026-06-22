@@ -13,13 +13,15 @@ The training dataset consists of 1,267 images generated programmatically.. The a
 * **Setting:** Solitaire, Pavé.
 
 ## Training Details
-The LoRA fine-tuning was completed locally in approximately 1.4 hours using an NVIDIA RTX 5070 Ti.. 
+The LoRA fine-tuning was completed locally in approximately 1.4 hours using an NVIDIA RTX 5070 Ti. 
 * **Base Model:** stabilityai/stable-diffusion-xl-base-1.0.
 * **LoRA Rank:** 4.
 * **Learning Rate:** 1e-4 (Constant).
 * **Mixed Precision:** fp16.
 
-*Note: Checkpoint 1000 was selected as the optimal model, as further training to 1500 steps showed signs of data autophagy and detail degradation*..
+*Note: Checkpoint 1000 was selected as the optimal model, as further training to 1500 steps showed signs of data autophagy and detail degradation*.
 
-## Authors
-Hamza Alzahrani, Turki Alshuaibi, Khalid Alomair, Ahmad Alakhdhar, Aseel Alsaid, Anas Alghamdi.
+## Author
+Hamza Alzahrani
+
+This was an individual project completed as part of a team coursework arrangement, where each member led a separate project for a shared course submission. Thanks to my teammates, Turki Alshuaibi, Khalid Alomair, Ahmad Alakhdhar, Aseel Alsaid, and Anas Alghamdi, for their support during that semester.
