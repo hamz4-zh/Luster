@@ -21,5 +21,8 @@ The LoRA fine-tuning was completed locally in approximately 1.4 hours using an N
 
 *Note: Checkpoint 1000 was selected as the optimal model, as further training to 1500 steps showed signs of data autophagy and detail degradation*..
 
-## Authors
-Hamza Alzahrani, Turki Alshuaibi, Khalid Alomair, Ahmad Alakhdhar, Aseel Alsaid, Anas Alghamdi.
+## Author
+
+Hamza Alzahrani
+
+This was an individual project completed as part of a team coursework arrangement, where each member led a separate project for a shared course submission. Thanks to my teammates, Turki Alshuaibi, Khalid Alomair, Ahmad Alakhdhar, Aseel Alsaid, and Anas Alghamdi, for their support during that semester.
